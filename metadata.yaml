@@ -1,0 +1,27 @@
+_repo: Irish-Witchcraft-and-Demonology_43651
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43651-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Seymour, St. John D. (St. John Drelincourt)
+    alias: Seymour, St. John Drelincourt
+    gutenberg_agent_id: '5367'
+    url: http://www.gutenberg.org/2009/agents/5367
+description: ''
+gutenberg_issued: '2013-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43651'
+  lccn: '13024475'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Demonology'
+- !lcsh 'Witchcraft -- Ireland'
+- !lcc 'BF'
+title: Irish Witchcraft and Demonology
+url: http://www.gutenberg.org/ebooks/43651
